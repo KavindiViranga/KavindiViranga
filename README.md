@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavindi Viranga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="300" height="270" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="350" height="250" src="https://i.pinimg.com/originals/06/ef/d9/06efd9fc18aade1ce5a7f80374b5ce61.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindiviranga&label=Profile%20views&color=0e75b6&style=flat" alt="kavindiviranga" /> </p>
 
@@ -8,7 +8,11 @@
 
 - 🌱 I’m currently learning **programming languages**
 
+- 👨‍💻 All of my projects are available at [https://kavindiviranga.github.io/my_portfolio/](https://kavindiviranga.github.io/my_portfolio/)
+
 - 📫 How to reach me **kavindi99viranga@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
